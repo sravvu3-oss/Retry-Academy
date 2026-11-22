@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://6onltaq3u35o"
-path="res://.godot/imported/green tile.png-44df5f78001bd725c458b9a9bf5937e7.ctex"
+uid="uid://bd2gubma67iay"
+path="res://.godot/imported/beach backgrond.jpg-9d887c58b75729fcc74b58bffab3b4e1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://green tile.png"
-dest_files=["res://.godot/imported/green tile.png-44df5f78001bd725c458b9a9bf5937e7.ctex"]
+source_file="res://beach backgrond.jpg"
+dest_files=["res://.godot/imported/beach backgrond.jpg-9d887c58b75729fcc74b58bffab3b4e1.ctex"]
 
 [params]
 
