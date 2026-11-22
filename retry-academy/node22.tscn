@@ -1,0 +1,13 @@
+[gd_scene format=3 uid="uid://bae0eyndnq0ti"]
+
+[ext_resource type="Texture2D" uid="uid://cnl6m0htm3633" path="res://icon.svg" id="1_76y4a"]
+
+[node name="Node" type="Node" unique_id=248295718]
+
+[node name="TileMapLayer" type="TileMapLayer" parent="." unique_id=303838279]
+
+[node name="Sprite2D" type="Sprite2D" parent="TileMapLayer" unique_id=1922591690]
+
+[node name="Icon" type="Sprite2D" parent="TileMapLayer" unique_id=1618461124]
+position = Vector2(651, -20)
+texture = ExtResource("1_76y4a")
